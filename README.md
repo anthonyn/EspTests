@@ -2,6 +2,7 @@
 
 https://wiki.wemos.cc/products:d1:d1_mini
 
+```
 Pin
 
 Pin	Function	ESP-8266 Pin
@@ -21,3 +22,4 @@ G	Ground	GND
 5V	5V	-
 3V3	3.3V	3.3V
 RST	Reset	RST
+```

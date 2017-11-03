@@ -14,6 +14,7 @@ void setup() {
 
     // We start by connecting to a WiFi network
     WiFiMulti.addAP("HOME-4060", "5252wifi");
+    WiFiMulti.addAp("TonyPhone", "1234567890");
 
     Serial.println();
     Serial.println();
